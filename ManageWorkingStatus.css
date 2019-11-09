@@ -1,0 +1,41 @@
+.progress {
+  width: 80%;
+  height: 3rem;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 1%;
+}
+
+.progress-bar {
+  height: 3rem;
+  color: black;
+  font-size: 1rem;
+}
+
+span, i {
+  position: relative;
+  left: 10%;
+}
+
+ul {
+  margin-left: 10%;
+  margin-right: 10%;
+  overflow-y: scroll;
+  height: 10rem;
+}
+
+.stars {
+  position: relative;
+  margin-right: 60%;
+  float: right;
+}
+
+button {
+  background-color: none;
+}
+
+li > i {
+  position: relative;
+  left: 5%;
+  color: red;
+}
